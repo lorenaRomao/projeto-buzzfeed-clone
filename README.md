@@ -1,4 +1,4 @@
- #Clone do BuzzFeed em Angular
+# Clone do BuzzFeed em Angular
 
 ![Angular](https://img.shields.io/badge/-Angular-white?style=for-the-badge&logo=Angular&color=DD0031&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=bootstrap&color=7952B3&logoColor=white)
