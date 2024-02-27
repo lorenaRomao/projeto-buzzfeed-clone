@@ -1,0 +1,71 @@
+{
+  "title":"Qual a sua casa de Hogwarts?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Você esta tentando entrar em um lugar, porém a porta esta trancada, o que você faz?",
+      "options":[
+        {"id": 1, "name":"Tento achar a chave", "alias":"A"},
+        {"id": 2, "name":"Bato na porta", "alias":"B"},
+        {"id": 3, "name":"Derrubo a porta", "alias":"C"},
+        {"id": 4, "name":"Arombo a porta", "alias":"D"}
+      ]
+    },
+    {
+      "id":1,
+      "question": "Complete a frsa: Entre o certo e o errado eu faço _______.?",
+      "options":[
+        {"id": 1, "name":"o que acho infeligente", "alias":"A"},
+        {"id": 2, "name":"o que acho justo", "alias":"B"},
+        {"id": 3, "name":"o que me favorece", "alias":"C"},
+        {"id": 4, "name":"o que quero", "alias":"D"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual instrumento mais te agrada?",
+      "options":[
+        {"id": 1, "name":"Piano", "alias":"B"},
+        {"id": 2, "name":"Tambor", "alias":"C"},
+        {"id": 3, "name":"Violino", "alias":"A"},
+        {"id": 4, "name":"Trompete", "alias":"D"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual das seguintes caractericas você acha que não te representa?",
+      "options":[
+        {"id": 1, "name":"Ignorancia", "alias":"A"},
+        {"id": 2, "name":"Egoista", "alias":"B"},
+        {"id": 3, "name":"Ordinário", "alias":"D"},
+        {"id": 4, "name":"Covarde", "alias":"C"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "O que você mais deseja aprender em Hogwarts?",
+      "options":[
+        {"id": 1, "name":"Tudo sobre criatuaras mágicas, como cuidar e fazer amizade com elas", "alias":"B"},
+        {"id": 2, "name":"Aparição e Desaparatação (poder materializar-se e desmaterializar-se a vontade)", "alias":"D"},
+        {"id": 3, "name":"Feitiços e azarações", "alias":"C"},
+        {"id": 4, "name":"Toda área da magia que eu conseguir", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual animal você levaria para Hogwarts?",
+      "options":[
+        {"id": 1, "name":"Gato", "alias":"A"},
+        {"id": 2, "name":"Sapo", "alias":"C"},
+        {"id": 3, "name":"Coruja", "alias":"D"},
+        {"id": 4, "name":"Rato", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Corvinal! Casa dos que tem a mente sempre alerta, onde os alunos de grande espírito e saber sempre encontrarão companheiros seus iguais.",  
+    "B": "Lufa-Lufa! Casa onde seus moradores são justos e leais, pacientes, sinceros, sem medo da dor.",
+    "C": "Sonserina! Casa de alunos astutos, que usam quaisquer meios para atingir os fins que almejam.",
+    "D": "Grifinória! Casa onde habitam os corações indômitos. Ousadia, sangue-frio e nobreza destacam os alunos da Grifinória dos demais."
+  }
+}
